@@ -1,0 +1,1 @@
+El archivo resultado.txt tiene 1 saltos de línea.
